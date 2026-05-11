@@ -1,0 +1,1 @@
+This project is part of The Odin project foundation course and it's aimed to build a basic recipe website using HTML and train the usage of images, relative links and headers.
